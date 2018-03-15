@@ -1,1 +1,1 @@
-# Treinamento para maratona de programação UDESC-2018
+﻿# Codigos utilizados no urionlinejudge
